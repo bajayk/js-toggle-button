@@ -1,3 +1,3 @@
 # js-toggle-button
 
-# for more details visit : http://www.ajaybadgujar.com/
+# Tutorial Link : http://www.ajaybadgujar.com/creating-a-toggle-button-using-html5-css3-and-javascript/
